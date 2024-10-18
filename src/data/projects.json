@@ -1,0 +1,50 @@
+[
+  {
+    "title": "HOMES OF NET",
+    "imageSrc": "projects/project1.png",
+    "description": "This project is a brand identity, website and SnapChat lens project.",
+    "skills": ["HTML", "CSS", "JavaScript", "Photoshop"],
+    "demo": "https://www.homesofnetgh.com",
+    "source": "https://drive.google.com/drive/folders/1mj6rEfKFt2bUwg-QzSuMKlxW0HCVtcPH?usp=sharing"
+  },
+  {
+    "title": "INCLUSIVE HEALTH FOR AFRICA",
+    "imageSrc": "projects/project2.png",
+    "description": "This project comprises of a brand identity with a website and social media materials.",
+    "skills": ["HTML", "CSS", "JavaScript", "Illustrator"],
+    "demo": "https://www.inclusivehealthforafrica.com",
+    "source": "https://drive.google.com/drive/folders/1ZXieJ0qb-h3-XW9RyO6_V6RbHf4Jv8Zy?usp=sharing"
+  },
+  {
+    "title": "KATAALI",
+    "imageSrc": "projects/project3.png",
+    "description": "This is brand identity project for a kaftan clothing brand in Ghana looking to expand.",
+    "skills": ["Adobe Photoshop", "Illustrator"],
+    "demo": "https://www.example.com",
+    "source": "https://drive.google.com/drive/folders/1vIO7z1cSgerQTLiNEVHi1SfuxqGI5yQb?usp=sharing"
+  },
+  {
+    "title": "AA PRIMAL MEATS",
+    "imageSrc": "projects/project4.png",
+    "description": "Brand identity project for an ultra modern abbatoir in the Bono East Region of Ghana.",
+    "skills": ["Adobe Photoshop", "Illustrator"],
+    "demo": "https://www.example.com",
+    "source": "https://drive.google.com/drive/folders/10v5IGGXgtej_QbTIApLemFZ9oG9024U9?usp=sharing"
+  },
+  {
+    "title": "BOX 252",
+    "imageSrc": "projects/project5.png",
+    "description": "This is also a brand identity project for a new sports bar in Accra, Ghana.",
+    "skills": ["Adobe Photoshop", "Illustrator"],
+    "demo": "https://www.example.com",
+    "source": "https://drive.google.com/drive/folders/1BCKrELvOtsQR4KKXQrG4LIGykC-SMDLh?usp=sharing"
+  },
+  {
+    "title": "XYZ REALTY",
+    "imageSrc": "projects/project6.png",
+    "description": "This is a proposed rebrand for a real estate company looking to improve their visual identity.",
+    "skills": ["Adobe Photoshop", "Illustrator"],
+    "demo": "https://www.example.com",
+    "source": "https://drive.google.com/drive/folders/1EhR0EBuSvXePiFebFo5tnEIQZ8YpXZnv?usp=sharing"
+  }
+]

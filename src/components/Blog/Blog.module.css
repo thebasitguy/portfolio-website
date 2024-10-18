@@ -1,0 +1,62 @@
+@import "../../vars.css";
+
+.blogSection {
+  padding: 60px 10%;
+  background-color: var(--color-secondary);
+  color: var(--color-text);
+  text-align: justify;
+}
+
+.blogTitle {
+  font-size: 50px;
+  font-weight: 700;
+  margin-bottom: 40px;
+  margin-top: 80px;
+}
+
+.postsContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+}
+
+.post {
+  background-color: var(--color-primary-light);
+  border-radius: 10px;
+  padding: 20px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.post:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.date {
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--color-primary-dark);
+  margin-bottom: 10px;
+}
+
+.readMore {
+  color: var(--color-primary);
+  font-weight: 500;
+  cursor: pointer;
+  margin-left: 5px;
+  transition: color 0.3s ease;
+}
+
+.readMore:hover {
+  color: var(--color-primary-dark);
+}
+
+@media screen and (max-width: 830px) {
+  .blogTitle {
+    font-size: 40px;
+  }
+
+  .post {
+    padding: 15px;
+  }
+}

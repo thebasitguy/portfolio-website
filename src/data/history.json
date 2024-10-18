@@ -1,0 +1,42 @@
+[
+  {
+    "role": "IT & Control Centre Officer",
+    "organisation": "Dihoc-Kenaki Manufacturing Co. Ltd.",
+    "startDate": "May, 2023",
+    "endDate": "Present",
+    "experiences": ["Developed company website", "IT Training", "Designed graphics for marketing materials", "Tracking and communication"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Graphic Designer",
+    "organisation": "BTU Engineering Solutions",
+    "startDate": "August, 2024",
+    "endDate": "Present",
+    "experiences": ["Design graphics for marketing materials", "Social media content creation"],
+    "imageSrc": "history/netflix.png"
+  },
+  {
+    "role": "IT & Communications Manager (Volunteer)",
+    "organisation": "Inclusive Health for Africa",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": ["Developed organization website", "Designed social media content", "Commmunication and correspondence"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Web Developer & Graphic Designer",
+    "organisation": "Homes of Net",
+    "startDate": "June, 2021",
+    "endDate": "Present",
+    "experiences": ["Developed company website", "IT Training", "Designed graphics for marketing materials", "Tracking and communication"],
+    "imageSrc": "history/netflix.png"
+  },
+  {
+    "role": "Web Developer & Graphic Designer",
+    "organisation": "Health Haus Holistic",
+    "startDate": "September, 2021",
+    "endDate": "April, 2024",
+    "experiences": ["Developed company website", "Designed graphics for marketing materials"],
+    "imageSrc": "history/netflix.png"
+  }
+]
