@@ -6,11 +6,11 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 20px 10%; /* Fixed the padding */
+  padding: 20px 10%;
   z-index: 100;
   width: 100%;
   background-color: white;
-  box-sizing: border-box; /* Ensures padding doesn't add to the total width */
+  box-sizing: border-box; 
 }
 
 .title {
@@ -37,7 +37,7 @@
 }
 
 .menuBtn {
-  display: none; /* Hidden by default on large screens */
+  display: none;
   cursor: pointer;
 }
 
@@ -45,12 +45,12 @@
   .navbar {
     flex-direction: column;
     align-items: flex-start;
-    padding: 20px; /* Reduce padding for smaller screens */
+    padding: 20px;
   }
 
   .menu {
     position: absolute;
-    right: 20px; /* Adjust positioning of the menu button */
+    right: 20px;
     flex-direction: column;
     align-items: flex-end;
     gap: 11px;
@@ -58,7 +58,7 @@
   }
 
   .menuBtn {
-    display: block; /* Show menu button on mobile */
+    display: block;
     cursor: pointer;
   }
 
