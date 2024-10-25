@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import styles from "./Blog.module.css";
 
-// Blog post data (API call later)
 const posts = [
   {
     id: 1,
